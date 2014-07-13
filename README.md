@@ -1,4 +1,4 @@
-ExploratoryDataProject01
+Exploratory Data Project 01
 ========================
 
-Exploratory Data analysis Project 01
+Exploratory Data Analysis Project 01
